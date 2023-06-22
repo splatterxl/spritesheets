@@ -1,0 +1,7 @@
+{
+  "name": "spritesheets",
+  "packageManager": "yarn@3.4.1",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}

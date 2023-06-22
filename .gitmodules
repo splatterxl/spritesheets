@@ -1,0 +1,3 @@
+[submodule "fluent-emoji"]
+	path = fluent-emoji
+	url = git@github.com:justsomederpystuff/fluent-emoji
